@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans  xmlns="http://www.springframework.org/schema/beans"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:context="http://www.springframework.org/schema/context"
+        xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <bean id="testBean"
+          class="ua.studio.springcourse.ClassicalMusic">
+<!--        <constructor-arg value="Andre"/>-->
+    </bean>
+
+</beans>
+<!--        Цей XML-файл представляє конфігураційний файл для Spring Framework.-->
+
+<!--        Перші три рядки визначають XML-версію, кодування та неймспейси, які використовуються в цьому файлі.-->
+
+<!--<beans> є кореневим елементом і визначає, що це Spring-конфігураційний файл. -->
+<!--        Він також вказує на неймспейси, які використовуються в цьому файлі.-->
+
+<!--<bean> - це елемент, який визначає бін (об'єкт) в контексті Spring. -->
+<!--    id вказує унікальний ідентифікатор для цього біна, а class вказує повну назву класу,-->
+<!--    який має бути використаний для створення цього біна. -->
+<!--    constructor-arg вказує, який параметр конструктора має бути переданий при створенні об'єкту класу TestBean.-->
+<!--    У цьому випадку, він передає рядок "Andre".-->
+
+<!--    xsi:schemaLocation - це атрибут, який вказує на розташування схеми XML для цього файлу,-->
+<!--    яка використовується для перевірки правильності синтаксису та структури цього файлу.-->
+<!--    У цьому випадку, ми вказуємо на розташування схеми для неймспейсу -->
+<!--    http://www.springframework.org/schema/beans та http://www.springframework.org/schema/context.-->
