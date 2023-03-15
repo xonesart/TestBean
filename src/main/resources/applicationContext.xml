@@ -8,8 +8,8 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
     <bean id="testBean"
-          class="ua.studio.springcourse.ClassicalMusic">
-<!--        <constructor-arg value="Andre"/>-->
+          class="ua.studio.springcourse.TestBean">
+       <constructor-arg value="Andre"/>-->
     </bean>
 
 </beans>

@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f9a8c03-039a-4982-9ebc-6ed09846da15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="1f9a8c03-039a-4982-9ebc-6ed09846da15" name="Changes" comment="TestBean">
       <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/ClassicalMusic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/Music.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/MusicPlayer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +77,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678840727768</updated>
-      <workItem from="1678840729024" duration="5560000" />
+      <workItem from="1678840729024" duration="6082000" />
     </task>
+    <task id="LOCAL-00001" summary="TestBean">
+      <created>1678846656884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678846656884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TestBean" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestBean" />
   </component>
 </project>
